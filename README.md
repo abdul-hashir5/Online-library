@@ -65,5 +65,5 @@ Passing props between components
 Project structure in React
 Styling using CSS
 
-My Github Profile: 
+My Github Profile: https://github.com/abdul-hashir5
 
